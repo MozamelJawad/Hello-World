@@ -1,4 +1,4 @@
 # .gitignore
 node_modules/
-# ignore the file literally named test.md
+# ignore the file named test.md
 test.md
